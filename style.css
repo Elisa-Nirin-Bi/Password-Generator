@@ -1,0 +1,58 @@
+*{
+  background-color: #008B8B;
+  font-family: 'Hahmlet', serif;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.generate{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  background-color: #FAEBD7;
+  width: 500px;
+  height: 200px;
+}
+
+button{
+  width: 60px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.instructions{
+  margin: auto;
+  background-color: #FAEBD7;  
+}
+
+h2{
+  background-color: #FAEBD7;
+}
+
+.password{
+  height: 200px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  background-color: #FFE4C4;
+}
+
+.finalResult{
+  display: flex;
+ font-size: 20px;
+ margin-top: 150px;
+ margin: auto;
+ width:150px;
+ background-color: #FAEBD7;
+
+}
+
+.password > button{
+  width: 60px;
+  
+}
